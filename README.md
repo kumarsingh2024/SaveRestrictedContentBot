@@ -12,7 +12,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 - Faster speed
 - Forcesubscribe available
 - To save from bots send link in this format : `t.me/b/bot_username/message_id` (use plus messenger for message_id)
-- `/batch` - (For owner only) Use this command to save upto 100 files from a pvt or public restricted channel at once.
+- `/batch` - (For owner only) Use this command to save upto 1000 files from a pvt or public restricted channel at once.
 - `/cancel` -  Use this to stop batch
 - Time delay is added to avoid FloodWait and keep user account safe. 
   
@@ -51,7 +51,7 @@ sudo docker-compose up --build
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/azadsingh2024)
 - enter all the below commands
 
 ```
